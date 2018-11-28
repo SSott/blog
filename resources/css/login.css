@@ -1,0 +1,17 @@
+form{
+	width: 25%;
+	height: 50%;
+	border: 2px solid #ccc;
+	background-color: #ccc;
+	position: relative;
+	z-index: 1;
+}
+.top{
+	z-index: -1;
+
+}
+/*.btn{
+	background-color: blue;
+	font:white;
+}
+*/
